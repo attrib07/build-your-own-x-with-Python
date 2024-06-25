@@ -1,4 +1,4 @@
-[![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
+[![Banner](.Image/Build_Your_Own_X_with_Python.png)]
 
 ## Table of Contents: Build your own X with python
 
